@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51399" started-at="2020-08-12T19:44:59 IST" finished-at="2020-08-12T19:45:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51399" started-at="2020-08-12T19:44:59 IST" finished-at="2020-08-12T19:45:51 IST">
+      <class name="com.WebDevelopment.TestCases.BookingTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.WebDevelopment.TestCases.BookingTest@578486a3]" name="setup" is-config="true" duration-ms="16406" started-at="2020-08-12T19:44:59 IST" finished-at="2020-08-12T19:45:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.WebDevelopment.TestCases.BookingTest@578486a3]" name="init" is-config="true" duration-ms="28" started-at="2020-08-12T19:45:16 IST" finished-at="2020-08-12T19:45:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="flightBooking()[pri:0, instance:com.WebDevelopment.TestCases.BookingTest@578486a3]" name="flightBooking" duration-ms="34878" started-at="2020-08-12T19:45:16 IST" finished-at="2020-08-12T19:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightBooking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WebDevelopment.TestCases.BookingTest@578486a3]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-08-12T19:45:51 IST" finished-at="2020-08-12T19:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WebDevelopment.TestCases.BookingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
