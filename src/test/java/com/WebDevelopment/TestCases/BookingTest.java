@@ -23,7 +23,7 @@ public class BookingTest extends BaseClass {
 
 		fl.setSourceAndDestination("Delhi (DEL)", "Mumbai (BOM)");
 		fl.chooseFlights();
-		fl.checkOut("fName", "lname", "Email@mail", "4565453343");
+		fl.checkOut("fName", "lname", "Email@mail.com", "4565453343");
 
 	}
 
